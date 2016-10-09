@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">rasyan_ahmed-pset5</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_single_list">SingleList</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
